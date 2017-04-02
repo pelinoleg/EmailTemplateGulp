@@ -1,0 +1,16 @@
+{
+  "name": "gulp_blank",
+  "version": "1.0.0",
+  "description": "Blank project on Gulp with Pug, Stylus, autoprefixer, browser-sync and other",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pelin Oleg",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-email-builder": "^3.0.0",
+    "gulp-replace": "^0.5.4"
+  }
+}
