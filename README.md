@@ -7,7 +7,7 @@ Blank project on Gulp for build email template, inline style css and send email 
 
 - Установить [node.js](https://nodejs.org/en/)
 
-- Сделать клон проекта или [скачать архив](https://github.com/pelinoleg/GulpBlank/archive/master.zip)
+- Сделать клон проекта или [скачать архив](https://github.com/pelinoleg/EmailTemplateGulp/archive/master.zip)
 
 - Установите Gulp, выполнив в терминале:
 ```
