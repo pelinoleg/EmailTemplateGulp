@@ -1,7 +1,7 @@
 {
   "name": "gulp_blank",
   "version": "1.0.0",
-  "description": "Blank project on Gulp with Pug, Stylus, autoprefixer, browser-sync and other",
+  "description": "Blank project on Gulp for build email template, inline style css and send email for tests",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
