@@ -19,8 +19,8 @@ sudo npm i gulp -g
 npm install
 ```
 
-```
 - Для запуска проекта выполните:
+
 ```
 gulp
 ```
